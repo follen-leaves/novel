@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v1.1.0/YunYinReader-v1.1.0.apk",
-  "notes": "云隐书阁首个正式发布版本。"
+  "versionCode": 3,
+  "versionName": "2.0.0",
+  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v2.0.0/YunYinReader-v2.0.0.apk",
+  "notes": "完整重写100章正文（约17.1万字），补齐境界、功法与宗门品阶；新增9张云隐宗建筑图鉴、手机系统中文听书、逐章连续性审校。旧版可直接覆盖升级。"
 }
