@@ -1,6 +1,0 @@
-{
-  "versionCode": 4,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v2.0.1/YunYinReader-v2.0.1.apk",
-  "notes": "修复部分安卓手机从第一章开始无法听书的问题：补充系统语音服务声明、首次朗读等待初始化、失败自动重试、语音状态反馈及文字转语音设置入口。旧版可直接覆盖升级。"
-}
