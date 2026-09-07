@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "2.0.0",
-  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v2.0.0/YunYinReader-v2.0.0.apk",
-  "notes": "完整重写100章正文（约17.1万字），补齐境界、功法与宗门品阶；新增9张云隐宗建筑图鉴、手机系统中文听书、逐章连续性审校。旧版可直接覆盖升级。"
+  "versionCode": 4,
+  "versionName": "2.0.1",
+  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v2.0.1/YunYinReader-v2.0.1.apk",
+  "notes": "修复部分安卓手机从第一章开始无法听书的问题：补充系统语音服务声明、首次朗读等待初始化、失败自动重试、语音状态反馈及文字转语音设置入口。旧版可直接覆盖升级。"
 }
