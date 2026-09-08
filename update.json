@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "3.0.0",
-  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v3.0.0/YunYinReader-v3.0.0.apk",
-  "notes": "爽文完整版全120章：顾长安开局即为唯一超脱者，系统大方建设神宗；七名亲传、九十九峰、诸天征战、人间酒与婚礼线全部完成，并保留离线阅读和系统听书。旧版可直接覆盖升级。"
+  "versionCode": 8,
+  "versionName": "3.0.1",
+  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v3.0.1/YunYinReader-v3.0.1.apk",
+  "notes": "音色小更新：新增沉稳旁白、热血讲述、温柔讲述、清亮讲述四种预设，并自动列出手机语音引擎已安装的中文音色；缺少对应音色时安全回退。保留爽文完整版全120章。"
 }
