@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "2.0.2",
-  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v2.0.2/YunYinReader-v2.0.2.apk",
-  "notes": "保留云隐书阁软件、听书与更新功能，移除现有全部剧情内容。当前显示内容筹备中，后续章节将在准备完成后重新补充。旧版可直接覆盖升级。"
+  "versionCode": 6,
+  "versionName": "2.1.0",
+  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v2.1.0/YunYinReader-v2.1.0.apk",
+  "notes": "新增爽文新版第1—20章：开局获得神宗建设卡、九峰齐开，覆灭赤霞宗，收陆青崖、商红鱼、石铁衣为亲传，仙帝太上长老与十万天兵归位，云隐压服大周。旧版可直接覆盖升级。"
 }
