@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "3.0.1",
-  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v3.0.1/YunYinReader-v3.0.1.apk",
-  "notes": "音色小更新：新增沉稳旁白、热血讲述、温柔讲述、清亮讲述四种预设，并自动列出手机语音引擎已安装的中文音色；缺少对应音色时安全回退。保留爽文完整版全120章。"
+  "versionCode": 9,
+  "versionName": "3.1.0",
+  "apkUrl": "https://github.com/follen-leaves/novel/releases/download/v3.1.0/YunYinReader-v3.1.0.apk",
+  "notes": "设定图鉴更新：新增炼体至创世境的20级完整境界说明，单列唯一超脱（作者境）；新增顾长安、七名亲传等11位人物立绘图鉴与13张云隐宗场景图。保留全120章、四种音色预设和手机中文音色选择。"
 }
